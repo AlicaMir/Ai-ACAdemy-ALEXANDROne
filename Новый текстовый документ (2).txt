@@ -1,0 +1,5 @@
+https://github.com/AlicaMir/Ai-ACAdemy-ALEXANDROne/upload/master
+https://github.com/alxmamaev/ai-academy-2018/blob/master/Data-Preprocessing.ipynb
+https://github.com/alxmamaev/ai-academy-2018/blob/master/Catboost-01-Copy1.ipynb
+https://github.com/furfa/Ai-academy-Final/blob/master/Main%2Bsubm.ipynb
+https://github.com/sergeybelov/Machine-learning-python/blob/master/Финальное%20задание%20Игра%20Dota%202/Финальное%20задание%20final.py
